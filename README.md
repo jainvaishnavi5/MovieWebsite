@@ -4,4 +4,6 @@ There is also a file fresh_tomatoes.py which is the main script creating the web
 
 Then there exists a file naming entertainment_center.py which contains the instances of 6 movies.
 
-Open fresh_tomatoes.html to enjoy movie website and watching trailors.
+Open final_page.html to enjoy movie website and watching trailors.
+
+Enjoy Watching!
